@@ -1,5 +1,8 @@
 # Bookmarks
 
+The list below is a collection of interesting articles or articles I would like to read. 
+It is mainly focused on JavaScript, HTML, CSS and design.
+
 ## Javascript
 
 * [**That JS Dude.com** (Understand JavaScript)](http://www.thatjsdude.com)
