@@ -13,6 +13,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [React mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5) | Hackernoon.com
 
+* [Modern javascript for ancient developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9?gi=e1b507248236#.ooxtncmiy)
+
     ### Promises
 
     * [Promise of a burger party](http://kosamari.com/notes/the-promise-of-a-burger-party) | kosomari.com - **Promises explained with illustrations**
