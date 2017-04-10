@@ -5,6 +5,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 ## Javascript
 
+* [Eloquent Javascript](http://eloquentjavascript.net/) - **free book**
+
 * [**That JS Dude.com** (Understand JavaScript)](http://www.thatjsdude.com)
 
 * [David Walsh - JS tutorials](https://davidwalsh.name)
@@ -14,6 +16,10 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 * [React mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5) | Hackernoon.com
 
 * [Modern javascript for ancient developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9?gi=e1b507248236#.ooxtncmiy)
+
+* [JavaScript garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - **free JS book**
 
     ### Promises
 
@@ -39,13 +45,25 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
     * [Learn you node](https://github.com/workshopper/learnyounode) | Learn you node - terminal workshop - github.com/workshopper
 
+    * [Node school](https://nodeschool.io) - open source workshop
+
     ### Online courses
     
     * [React training](https://reacttraining.com/online) | **Paid** - Advanced React
 
     * [Coding train - RegExp](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
+    ### RegExp
+
+    * [Regular expresions](http://regexr.com)
+
 ## HTML / CSS
+
+* [Css references](http://cssreference.io/)
+
+* [Principles to responsive design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+
+* [Responsive web design](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893 ) - Google **free course**
 
 * [Color theory for people who code](http://tallys.github.io/color-theory/) | Color theory
 
@@ -57,6 +75,10 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
     * [CSS Grid - Mozilla](https://www.mozilla.org/en-US/developer/css-grid/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=mar23-2017) | CSS Grid - Mozilla 
 
+    ### Flexbox
+
+    * [Flexbox - explained with animations](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35?source=linkShare-fc11e1881952-1491722151)
+
     ### Free resources
 
     * [Premium quality patterns](https://novapattern.com)
@@ -67,13 +89,23 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
     * [CSS Tutorials](https://tympanus.net/codrops/)
 
+    * [Webdesign in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
+
     ### Interviews
 
     * [Fronend developer interview questions](https://github.com/johnpolacek/Front-end-Developer-Interview-Questions/blob/master/README.md)
+
+* [BEM](http://getbem.com/)
+
+    * [BEM - naming](http://cssguidelin.es/#bem-like-naming)
+
+* [LESS - guide](http://winless.org/online-less-compiler) 
 
 ## Full Stack web development
 
 * [Full stack web developer bookmarks on github](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/README.md) | 100+ of **free** resources about full stack web development
 
+* [Git tutorials](https://www.atlassian.com/git/tutorials)
 
-**bold text** = very googd
+
+**bold text** = very good
