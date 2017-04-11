@@ -25,6 +25,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - **free JS book**
 
+* [Article about buffering HTML5 video/audio](https://developer.mozilla.org/en-US/Apps/Fundamentals/Audio_and_video_delivery/buffering_seeking_time_ranges)
+
     ### Promises
 
     * [Promise of a burger party](http://kosamari.com/notes/the-promise-of-a-burger-party) | kosomari.com - **Promises explained with illustrations**
