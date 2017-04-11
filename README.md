@@ -5,6 +5,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+* [Visual studio tips and tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
+
 ## Javascript
 
 * [Eloquent Javascript](http://eloquentjavascript.net/) - **free book**
