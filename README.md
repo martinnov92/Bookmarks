@@ -57,6 +57,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
     
     * [React training](https://reacttraining.com/online) | **Paid** - Advanced React
 
+    * [React training - fundamentals](https://online.reacttraining.com/courses/50507/lectures/762538) | **free**
+
     * [Coding train - RegExp](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
     ### RegExp
