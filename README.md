@@ -11,6 +11,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [Eloquent Javascript](http://eloquentjavascript.net/) - **free book**
 
+* [Javascript.info](http://javascript.info) - free JavaScript tutorial with detailed explanations
+
 * [**That JS Dude.com** (Understand JavaScript)](http://www.thatjsdude.com)
 
 * [David Walsh - JS tutorials](https://davidwalsh.name)
