@@ -13,6 +13,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [Javascript.info](http://javascript.info) - free JavaScript tutorial with detailed explanations
 
+* [Node school](https://nodeschool.io) - open source workshops **free**
+
 * [**That JS Dude.com** (Understand JavaScript)](http://www.thatjsdude.com)
 
 * [David Walsh - JS tutorials](https://davidwalsh.name)
@@ -35,11 +37,13 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
     * [Getting started with promises](https://developers.google.com/web/fundamentals/getting-started/primers/promises#error_handling) | Developers.google.com - promises 
 
-    ### Terminal workshops
+    ### **Terminal workshops**
 
     * [Promise it wont hurt](https://github.com/stevekane/promise-it-wont-hurt/blob/master/README.md) | JS promises excercises in terminal
 
     * [Javascripting](https://github.com/workshopper/javascripting) | JS exercises in terminal
+
+    * [Best JavaScript practises](https://github.com/excellalabs/js-best-practices-workshopper) | JS best practises, workshop in terminal
 
     ### Webpack
 
@@ -52,8 +56,6 @@ It is mainly focused on JavaScript, HTML, CSS and design.
     ### Node
 
     * [Learn you node](https://github.com/workshopper/learnyounode) | Learn you node - terminal workshop - github.com/workshopper
-
-    * [Node school](https://nodeschool.io) - open source workshop
 
     ### Online courses
     
@@ -116,6 +118,10 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 * [Full stack web developer bookmarks on github](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/README.md) | 100+ of **free** resources about full stack web development
 
 * [Git tutorials](https://www.atlassian.com/git/tutorials)
+
+## Projects for begginers
+
+* [First pull requests](https://github.com/MunGell/awesome-for-beginners)
 
 
 **bold text** = very good
