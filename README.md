@@ -37,6 +37,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
     * [Getting started with promises](https://developers.google.com/web/fundamentals/getting-started/primers/promises#error_handling) | Developers.google.com - promises 
 
+    * [Google's promise course](https://www.udacity.com/course/javascript-promises--ud898) | **free - udacity + google**
+
     ### **Terminal workshops**
 
     * [Promise it wont hurt](https://github.com/stevekane/promise-it-wont-hurt/blob/master/README.md) | JS promises excercises in terminal
@@ -93,7 +95,9 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
     ### Free resources
 
-    * [Premium quality patterns](https://novapattern.com)
+    * [Google's web accessibility course](https://www.udacity.com/course/web-accessibility--ud891?utm_medium=referral&utm_campaign=api) | **free - Udacity + Google**
+
+    * [Google's responsive images course](https://www.udacity.com/course/responsive-images--ud882) | **free - Udacity + Google**
 
     * [Hackdesign.org](https://hackdesign.org/lessons)
 
@@ -112,6 +116,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
     * [BEM - naming](http://cssguidelin.es/#bem-like-naming)
 
 * [LESS - guide](http://winless.org/online-less-compiler) 
+
+* [Premium quality patterns](https://novapattern.com)
 
 ## Full Stack web development
 
