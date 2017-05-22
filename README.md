@@ -11,7 +11,11 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [Eloquent Javascript](http://eloquentjavascript.net/) - **free book**
 
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - **free JS book**
+
 * [Javascript.info](http://javascript.info) - free JavaScript tutorial with detailed explanations
+
+* [**DS.Laboratory - Dmitry Soshnikov**](http://dmitrysoshnikov.com) - lectures about JavaScript
 
 * [Node school](https://nodeschool.io) - open source workshops **free**
 
@@ -26,8 +30,6 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 * [Modern javascript for ancient developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9?gi=e1b507248236#.ooxtncmiy)
 
 * [JavaScript garden](http://bonsaiden.github.io/JavaScript-Garden/)
-
-* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - **free JS book**
 
 * [Article about buffering HTML5 video/audio](https://developer.mozilla.org/en-US/Apps/Fundamentals/Audio_and_video_delivery/buffering_seeking_time_ranges)
 
@@ -81,6 +83,8 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [Color theory for people who code](http://tallys.github.io/color-theory/) | Color theory
 
+* [Pusher.com - Videos about a lot of topics](https://pusher.com/sessions) - videos
+
     ### CSS tricks
 
     * [**Full-bleed**](https://css-tricks.com/hassle-free-full-bleed-not/) | css-tricks.com
@@ -125,9 +129,19 @@ It is mainly focused on JavaScript, HTML, CSS and design.
 
 * [Git tutorials](https://www.atlassian.com/git/tutorials)
 
+* [Technical development guide - Google](https://www.google.com/about/careers/students/guide-to-technical-development.html) - courses about several programming languages - Phyton, Java, JavaScript
+
 ## Projects for begginers
 
 * [First pull requests](https://github.com/MunGell/awesome-for-beginners)
 
+
+## People to follow
+
+* [Marius Schulz](https://blog.mariusschulz.com/) - JS, TypeScript
+
+* [Ben Nadel](https://www.bennadel.com/index.cfm) - JS, Node.js, webdesign
+
+* [Mariko Kosaka](https://kosamari.com/notes) - JS
 
 **bold text** = very good
